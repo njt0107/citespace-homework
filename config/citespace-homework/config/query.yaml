@@ -1,0 +1,5 @@
+query:
+object:
+- "bci interface"
+- "signal processing"
+time_window: [2020, 2025]
